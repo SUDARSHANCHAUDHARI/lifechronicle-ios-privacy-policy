@@ -12,7 +12,7 @@ This repository contains the public privacy policy for **LifeChronicle** (iOS), 
 # LifeChronicle Privacy Policy
 
 **Effective Date:** July 5, 2026
-_Last updated: July 5, 2026_
+_Last updated: October 19, 2026_
 **Version:** 1.0.0
 
 LifeChronicle ("we," "our," or "us") is a private photo diary for iOS, developed by SudarshanTechLabs. LifeChronicle is a private photo diary with moods, tags, memories, and optional AI period summaries. This Privacy Policy explains what information the app does and does not collect, how it is used, and the choices you have. By installing or using LifeChronicle you agree to the practices described below.
@@ -75,7 +75,7 @@ Please review the relevant third-party privacy policy:
 
 ## Permissions
 
-- LifeChronicle does not request access to your camera, microphone, location, contacts, photos, or health data.
+- LifeChronicle does not request access to your camera, microphone, location, contacts, or health data, and it does not request access to your photo library. You can attach photos to an entry with the iOS photo picker, which gives the app only the photos you select. Those photos are resized and stored as copies inside the app on your device; they are not uploaded or sent to any AI service.
 - If a future version adds a feature that needs a permission, iOS will prompt you first and this policy will be updated.
 
 ## Your Rights and Controls
@@ -142,4 +142,4 @@ The app collects only what is needed for the features described in this policy, 
 
 ---
 
-**Last Updated:** July 5, 2026
+**Last Updated:** October 19, 2026
